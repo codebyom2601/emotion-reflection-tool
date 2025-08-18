@@ -12,7 +12,7 @@ this is very important
 
 ---
 
-## 🚀 How to Run Locally
+## 🚀 How to Run Locally on your computer
 
 ### 1. Start Backend
 
