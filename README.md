@@ -1,7 +1,7 @@
 # Emotion Reflection Tool 🧠
 
 A simple full-stack web app that lets users reflect on how they feel and get a mock emotion analysis.
-
+this is very important
 ---
 
 ## 💻 Tech Stack
@@ -12,7 +12,7 @@ A simple full-stack web app that lets users reflect on how they feel and get a m
 
 ---
 
-## 🚀 How to Run Locally
+## 🚀 How to Run Locally on your computer
 
 ### 1. Start Backend
 
